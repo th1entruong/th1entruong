@@ -1,6 +1,6 @@
 <h1 align="center" color="red">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Thien Truong</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=F7E9EB&background=FF200100&multiline=true&width=650&lines=Every+accomplishment+starts+with+the+decision+to+try" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=FFFFFF&background=FF200100&multiline=true&width=650&lines=Every+accomplishment+starts+with+the+decision+to+try" alt="Typing SVG" /></a>
 </p>
 
 ## 🙋‍♂️ About me
