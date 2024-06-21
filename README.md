@@ -15,7 +15,7 @@
 
 - 📂 All of my projects are available at [github.com/th1entruong](https://github.com/th1entruong?tab=repositories)
 
-- 🏂 My hobby is **🎧 Music 🎥 Film 🏃 Running 💻 Coding**
+- 🏂 My hobby is: **🎧 Music 🎥 Film 🏃 Running 💻 Coding**
 
 ## 🚀 Languages and Tools:
 
