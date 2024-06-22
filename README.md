@@ -1,4 +1,4 @@
-<h1 align="center" color="red">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Thien Truong</h1>
+<h1 align="left" color="red">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Thien Truong</h1>
 
 ![Th1enTruong github stats](https://github-readme-stats.vercel.app/api?username=th1entruong&show_icons=true&theme=react)
 
