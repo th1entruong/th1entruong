@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About me
 
-<img align="right" alt="chilling" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI5dW5vNjg3cHlmdDZoNjgxbzdqM3NwYm5wMXl5bWZxNGVxemNrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h0Cq1ClzO3UpupFPjP/giphy.gif">
+<img align="right" alt="chilling" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjU3cGlwY2p6b21pbnVhMXRxNm1zcTNycXRsNnl6YW9iMjk1YXIzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RlTBaAkpL6VbSp6o50/giphy.gif">
 
 My full name is **Trương Đình Thiện**
 
