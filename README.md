@@ -37,4 +37,4 @@
   </a>
 </p>
 
-![Rivaan's github stats](**https://github-readme-stats.vercel.app/api?username=th1entruong&show_icons=true&theme=react**)
+![Th1enTruong github stats](https://github-readme-stats.vercel.app/api?username=th1entruong&show_icons=true&theme=react)
