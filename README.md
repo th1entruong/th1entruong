@@ -4,6 +4,8 @@
 
 ## 🙋‍♂️ About me
 
+<img align="right" alt="chilling" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejV6ZjYzMXd4dHpudmkxeW0zOWp5ZzN3YjJoNGVrb2wyM2Q1Y2cxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uyoXx0qpUWfQs/giphy.gif">
+
 My full name is **Trương Đình Thiện**
 
 I'm currently study at **University of Transport Ho Chi Minh City**
