@@ -1,5 +1,7 @@
 <h1 align="center" color="red">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Thien Truong</h1>
 
+![Th1enTruong github stats](https://github-readme-stats.vercel.app/api?username=th1entruong&show_icons=true&theme=react)
+
 ## 🙋‍♂️ About me
 
 <img align="right" alt="chilling" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NrNWUyeTdkc3ozbDB3d3M3ZmVvNmh4eXlqNzRoM3lvcXE5ajN0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
@@ -37,4 +39,3 @@
   </a>
 </p>
 
-![Th1enTruong github stats](https://github-readme-stats.vercel.app/api?username=th1entruong&show_icons=true&theme=react)
