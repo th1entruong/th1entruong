@@ -1,7 +1,5 @@
 <h1 align="left" color="red">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Thien Truong</h1>
 
-![Th1enTruong github stats](https://github-readme-stats.vercel.app/api?username=th1entruong&show_icons=true&theme=react)
-
 ## 🙋‍♂️ About me
 
 <img align="right" alt="chilling" width="400" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExempwems1cHpseDYzNTh6YWhxZWY2aWNjYmtobGsyaGdxYW1zanRhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XFEI8Dkme58Zpx7W7o/giphy.gif">
@@ -32,5 +30,17 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
-<a href="https://github.com/th1entruong?tab=repositories">
+<details open>
+  <summary><h2>📶 Github Stats</h2></summary>
+  <a href="https://github.com/HaoVN2411?tab=repositories">
     <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=haovn2411&show_icons=true" alt="GitHub stats"></a>
+  <a href="https://github.com/HaoVN2411?tab=repositories">
+    <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=haovn2411&show_icons=true&locale=en&layout=compact"></a>
+
+---
+---
+---
+---
+---
+---
+</details>
