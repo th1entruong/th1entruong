@@ -4,7 +4,7 @@
 
 <img align="right" alt="chilling" width="200" height="100" 
      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExempwems1cHpseDYzNTh6YWhxZWY2aWNjYmtobGsyaGdxYW1zanRhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XFEI8Dkme58Zpx7W7o/giphy.gif" 
-     style="padding-right: 20px;">
+     style="padding-right: 40px;">
 
 
 
