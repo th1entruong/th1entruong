@@ -32,5 +32,5 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th1entruong&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/th1entruong?tab=repositories">
+    <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=haovn2411&show_icons=true" alt="GitHub stats"></a>
