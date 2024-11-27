@@ -35,9 +35,9 @@
 <details open>
   <summary><h2>📶 Github Stats</h2></summary>
   <a href="https://github.com/th1entruong?tab=repositories">
-    <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=th1entruong&show_icons=true" alt="GitHub stats"></a>
+    <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=th1entruong&show_icons=true"&bg_color=00000000" alt="GitHub stats"></a>
   <a href="https://github.com/th1entruong?tab=repositories">
-    <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=th1entruong&show_icons=true&locale=en&layout=compact"></a>
+    <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=th1entruong&show_icons=true&locale=en&layout=compact&bg_color=00000000""></a>
 
 ---
 ---
