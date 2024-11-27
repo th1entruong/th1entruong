@@ -1,18 +1,8 @@
 <h1 align="left" color="red">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Thien Truong</h1>
 
-<p align="left" id="typing-svg">
-  <a href="https://git.io/typing-svg">
-    <img id="dynamic-svg" alt="Typing SVG" />
-  </a>
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F7E9EB&background=FF200100&multiline=true&width=470&lines=Feeling+with+music+-+Chilling+with+coding" alt="Typing SVG" /></a>
 </p>
-
-<script>
-  const darkMode = window.matchMedia("(prefers-color-scheme: dark)").matches;
-  const svgUrl = darkMode
-    ? "https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=FFFFFF&background=00000000&multiline=true&width=470&lines=Feeling+with+music+-+Chilling+with+coding"
-    : "https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=000000&background=00000000&multiline=true&width=470&lines=Feeling+with+music+-+Chilling+with+coding";
-  document.getElementById("dynamic-svg").src = svgUrl;
-</script>
 
 ## 🙋‍♂️ About me
 
